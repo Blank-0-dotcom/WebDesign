@@ -1,3 +1,4 @@
+Notes:
 cd amazon-clone
 npm start
 
